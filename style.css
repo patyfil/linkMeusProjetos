@@ -93,6 +93,7 @@ body * {
   /* right: 0;
   left: initial; */
   animation: slide-in 0.2s forwards;
+  // Regra forwards = manter a animação slide-in em to{left:50%}
 }
 
 #switch button:hover {
